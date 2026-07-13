@@ -1,2 +1,3 @@
+# Enables publishing this module to the garnix modules registry on push to main.
 modules:
   publish: true
