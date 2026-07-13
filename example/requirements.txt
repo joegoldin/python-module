@@ -1,0 +1,3 @@
+# Declare third-party dependencies here for reference. To have them installed
+# into the built environment, list their nixpkgs attribute names under the
+# `dependencies` option in your consuming flake.
