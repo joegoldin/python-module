@@ -7,7 +7,7 @@
     [Source](https://github.com/joegoldin/python-module).
   '';
 
-  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
+  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
   inputs.garnix-lib.url = "github:joegoldin/garnix-lib";
   inputs.garnix-lib.inputs.nixpkgs.follows = "nixpkgs";
 
